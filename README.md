@@ -9,6 +9,7 @@ This project explores how Bitcoin market sentiment (Fear/Greed Index) influences
 
 # Dataset Sources
 Fear & Greed Index (CSV) - https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
 Historical Trader Data (CSV) - https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 # Tech Stack
